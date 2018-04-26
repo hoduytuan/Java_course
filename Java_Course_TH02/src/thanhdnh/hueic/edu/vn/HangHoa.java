@@ -1,6 +1,6 @@
 package thanhdnh.hueic.edu.vn;
 
-lớp  công khai HangHoa {
+public class HangHoa {
 	private  string tenhang;
 	// Continue for relase properties
 
